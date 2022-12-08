@@ -17,4 +17,3 @@ jobs:
               workflow_id: 'ci.yaml',
               ref: 'test-1',
             })    
-
